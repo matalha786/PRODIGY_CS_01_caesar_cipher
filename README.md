@@ -1,5 +1,4 @@
 # PRODIGY_CS_01_caesar_cipher
-```markdown
 # Caesar Cipher Program
 
 This is a GUI-based Caesar Cipher program that allows you to encrypt and decrypt messages using a simple shift-based substitution cipher. The program is built using Python and the `tkinter` library.
