@@ -16,7 +16,7 @@ This is a GUI-based Caesar Cipher program that allows you to encrypt and decrypt
 1. Clone the repository to your local machine:
 
    ```bash
-   [git clone https://github.com/your-username/caesar-cipher-tool.git](https://github.com/matalha786/PRODIGY_CS_01_caesar_cipher)
+   git clone github.com/matalha786/PRODIGY_CS_01_caesar_cipher
    ```
 
 2. Navigate to the project directory:
